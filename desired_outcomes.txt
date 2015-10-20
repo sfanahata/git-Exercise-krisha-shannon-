@@ -1,0 +1,3 @@
+Krisha: learn front end engineer basics, and hopefully use it in a future job 
+
+shannon: create a mostly functional website based on a project in this class, make a portfolio website, learn JS, JQUERY, JSON well enough
